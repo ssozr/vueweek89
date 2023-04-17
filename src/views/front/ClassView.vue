@@ -127,7 +127,10 @@ export default{
     },
     changPage (id) {
       console.log(id)
+      this.id = id
       this.$router.push(`/class/${id}`)
+      this.getClassData()
+      
     },
     qty (num) {
       this.qtyNum = num

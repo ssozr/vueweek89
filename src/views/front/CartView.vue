@@ -72,8 +72,9 @@
         
       </div>
     </div>
-    <!-- Modal -->
-    <div class="modal" tabindex="-1" ref="delModal">
+  </div>
+  <!-- Modal -->
+  <div class="modal" tabindex="-1" ref="delModal">
       <div class="modal-dialog">
         <div class="modal-content">
           <div class="modal-header">
@@ -127,7 +128,6 @@
         </div>
       </div>
     </div>
-  </div>
 </template>
 
 <script>

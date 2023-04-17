@@ -301,8 +301,10 @@
           </div>
         </div>
       </div>
-      <!-- 付款 Modal -->
-      <div class="modal" tabindex="-1" id="payModal" ref="payModal">
+    </div>
+  </div>
+  <!-- 付款 Modal -->
+  <div class="modal" tabindex="-1" id="payModal" ref="payModal">
         <div class="modal-dialog">
           <div class="modal-content">
             <div class="modal-header">
@@ -319,8 +321,6 @@
           </div>
         </div>
       </div>
-    </div>
-  </div>
 </template>
 
 <script>

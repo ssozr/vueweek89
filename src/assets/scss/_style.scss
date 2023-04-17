@@ -5,15 +5,3 @@ ul {
 a:hover {
   opacity: 0.5;
 }
-
-.modal {
-  overflow-y: visible;
-  overflow-x: visible;
-  @media (max-width: 768px) {
-    overflow-x: auto;
-  }
-}
-
-.modal-backdrop {
-  width: auto;
-}

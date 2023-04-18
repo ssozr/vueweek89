@@ -45,7 +45,7 @@
               <td></td>
               <td></td>
               <td></td>
-              <td class="align-bottom"><h2 class="border-bottom border-primary border-3 mb-0">總金額:NT <span class="ms-1">{{ formatNumber(cartData.total) }}</span></h2></td>
+              <td class="align-bottom"><h2 class="border-bottom border-primary border-3 mb-0 fs-6">總金額:NT <span class="ms-1">{{ formatNumber(cartData.total) }}</span></h2></td>
               <td> <RouterLink to="/Order"><button type="button" class="btn btn-primary ">結帳</button></RouterLink></td>
             </tr>
           </tbody>
